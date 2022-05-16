@@ -1,0 +1,23 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "description": "First TypeScript Repository",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Practice-Nomadcoders-Lesson/TypeScript-BlockChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Practice-Nomadcoders-Lesson/TypeScript-BlockChain/issues"
+  },
+  "homepage": "https://github.com/Practice-Nomadcoders-Lesson/TypeScript-BlockChain#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
